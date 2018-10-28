@@ -1,0 +1,6 @@
+framework module Pods_carRecog {
+  umbrella header "Pods-carRecog-umbrella.h"
+
+  export *
+  module * { export * }
+}
